@@ -1,7 +1,7 @@
 import SwiftUI
 
 @main
-struct Ballotbook-VotingLogApp: App {
+struct BallotbookVotingLogApp: App {
     @StateObject private var store = Store()
     @StateObject private var purchaseManager = PurchaseManager()
 
