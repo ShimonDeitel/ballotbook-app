@@ -55,7 +55,7 @@ targets:
       base:
         DEVELOPMENT_TEAM: W7Q885Q59C
 schemes:
-  Ballotbook-VotingLog:
+  Ballotbook - Voting Log:
     build:
       targets:
         Ballotbook-VotingLog: all
